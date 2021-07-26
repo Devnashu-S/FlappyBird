@@ -176,4 +176,4 @@ while True:
  
 
     pygame.display.update()
-    clock.tick(30)
+    clock.tick(60)
